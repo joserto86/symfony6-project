@@ -11,18 +11,18 @@
         "doctrine/doctrine-migrations-bundle": "^3.2",
         "doctrine/orm": "^2.13",
         "lexik/jwt-authentication-bundle": "^2.16",
-        "symfony/console": "6.1.*",
-        "symfony/dotenv": "6.1.*",
+        "symfony/console": "7.*",
+        "symfony/dotenv": "7.*",
         "symfony/flex": "^2",
-        "symfony/framework-bundle": "6.1.*",
-        "symfony/runtime": "6.1.*",
-        "symfony/security-bundle": "6.1.*",
-        "symfony/yaml": "6.1.*"
+        "symfony/framework-bundle": "7.*",
+        "symfony/runtime": "7.*",
+        "symfony/security-bundle": "7.*",
+        "symfony/yaml": "7.*"
     },
     "require-dev": {
         "symfony/maker-bundle": "^1.47",
-        "symfony/stopwatch": "6.1.*",
-        "symfony/web-profiler-bundle": "6.1.*"
+        "symfony/stopwatch": "7.*",
+        "symfony/web-profiler-bundle": "7.*"
     },
     "config": {
         "allow-plugins": {
@@ -73,7 +73,7 @@
     "extra": {
         "symfony": {
             "allow-contrib": false,
-            "require": "6.1.*"
+            "require": "7.*"
         }
     }
 }
